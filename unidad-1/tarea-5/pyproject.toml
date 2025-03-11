@@ -12,3 +12,5 @@ dev = [
     "python-lsp-server>=1.12.2",
     "ruff>=0.9.9",
 ]
+
+Cual es el objetivo de este archivo, no le encuentro logica, explicar por favor
